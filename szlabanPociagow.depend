@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1795608076 source:c:\users\admin\desktop\jk\szlabanpociagow\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<chrono>
+
